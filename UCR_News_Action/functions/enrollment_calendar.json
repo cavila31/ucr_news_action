@@ -1,0 +1,50 @@
+{
+  "Enrollment": {
+    "Ordinary_Enrollment": {
+      "Enrollment_Courses_Guide": "02/09/2018",
+      "Pre_Enrollment": {
+        "Starts": "02/16/2018",
+        "Ends": "02/20/2018"
+       },
+      "Appointment_Enrollment": "02/21/2018 12:00",
+      "Enrollment_Period": {
+        "Starts": "02/26/2018",
+        "Ends": "03/01/2018 02:30"
+      }
+    },
+    "Inclusion_Enrollment": {
+      "Enrollment_Courses_Guide": "03/05/2018 5:00",
+      "Pre_Enrollment": {
+        "Starts": "03/06/2018",
+        "Ends": "03/07/2018"
+      },
+      "Appointment_Enrollment": "03/08/2018 12:00",
+      "Enrollment_Period": {
+        "Starts": "03/12/2018",
+        "Ends": "03/14/2018 03:00"
+      }
+    },
+    "Last_Chance_Enrollment": {
+      "Enrollment_Courses_Guide": "03/16/2018 5:00",
+      "Pre_Enrollment": {
+        "Starts": "03/17/2018",
+        "Ends": "03/20/2018"
+      },
+      "Appointment_Enrollment": "03/21/2018 12:00",
+      "Enrollment_Period": {
+        "Starts": "03/22/2018",
+        "Ends": "03/23/2018 03:00"
+      }
+    }
+  },
+    "School_CalEndsar": {
+      "Starts_class": "03/09/2018"
+  },
+    "Withdrawal": {
+      "Resignations": "02/09/2018",
+      "Withdrawals": {
+        "Starts": "03/12/2018", 
+        "Ends": "04/13/2018 11:59"
+      }
+  }
+}
